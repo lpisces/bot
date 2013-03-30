@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+#source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
 
 gem 'rails', '3.2.13'
 
@@ -25,6 +26,8 @@ end
 gem 'jquery-rails'
 gem 'haml-rails'
 gem 'thin'
+gem 'fancy-buttons'
+gem 'cells'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
